@@ -1,0 +1,6 @@
+C:\Users\agusm\source\repos\Dependency_injection\Dependency_injection\obj\Debug\Dependency_inversion.csproj.CoreCompileInputs.cache
+C:\Users\agusm\source\repos\Dependency_injection\Dependency_injection\bin\Debug\Dependency_inversion.exe.config
+C:\Users\agusm\source\repos\Dependency_injection\Dependency_injection\bin\Debug\Dependency_inversion.exe
+C:\Users\agusm\source\repos\Dependency_injection\Dependency_injection\bin\Debug\Dependency_inversion.pdb
+C:\Users\agusm\source\repos\Dependency_injection\Dependency_injection\obj\Debug\Dependency_inversion.exe
+C:\Users\agusm\source\repos\Dependency_injection\Dependency_injection\obj\Debug\Dependency_inversion.pdb
